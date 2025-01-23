@@ -1,0 +1,1 @@
+fission function create --name hellojs --env nodejs --code hello.js 
