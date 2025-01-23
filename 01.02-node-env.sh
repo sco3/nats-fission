@@ -1,0 +1,1 @@
+fission env create --name nodejs --image fission/node-env --namespace default

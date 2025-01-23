@@ -1,0 +1,1 @@
+fission function create --name hello --env nodejs --code hello.js --namespace default

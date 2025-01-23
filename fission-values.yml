@@ -1,0 +1,6 @@
+serviceType: NodePort
+
+routerServiceType: NodePort
+
+prometheusDeploy: false
+

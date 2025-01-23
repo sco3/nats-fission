@@ -1,0 +1,1 @@
+fission environment create --name python --image ghcr.io/fission/python-env --namespace default
