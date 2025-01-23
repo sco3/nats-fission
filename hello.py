@@ -1,3 +1,3 @@
 def main():
     print ("hellopy")
-    return "Hello, world!"
+    return "Hello, world2!"
