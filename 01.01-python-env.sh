@@ -1,1 +1,1 @@
-fission environment create --name python --image ghcr.io/fission/python-env --namespace fission
+fission environment create --name python --image ghcr.io/fission/python-env 

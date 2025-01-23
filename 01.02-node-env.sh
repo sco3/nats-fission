@@ -1,1 +1,1 @@
-fission env create --name nodejs --image fission/node-env --namespace fission
+fission env create --name nodejs --image ghcr.io/fission/node-env 

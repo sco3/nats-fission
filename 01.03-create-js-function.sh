@@ -1,1 +1,1 @@
-fission function create --name hellojs --env nodejs --code hello.js --namespace fission
+fission function create --name hellojs --env nodejs --code hello.js 
