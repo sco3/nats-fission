@@ -1,1 +1,0 @@
-fission function test --name hello --namespace default
