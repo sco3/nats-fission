@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: fission-data
+spec:
+  accessModes:
+  - ReadWriteMany
+  capacity:
+    storage: 8Gi
+  csi:
+    driver: efs.csi.aws.com
+    volumeHandle: fs-063cb22a063118157
+  persistentVolumeReclaimPolicy: Retain
+  volumeMode: Filesystem
