@@ -1,1 +1,1 @@
-fission function test --name hellojs 
+fission function test --name hellojs --namespace default
